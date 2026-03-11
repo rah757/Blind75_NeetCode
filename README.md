@@ -1,1 +1,2 @@
-# Blind75_NeetCode
+# blind75
+Blind75 of neetcode
